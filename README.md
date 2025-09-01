@@ -52,5 +52,6 @@
 <br>
 
 <div align="center">
+  <h2>Visitas ao meu Perfil</h2>
   <img src="https://moe-counter.glitch.me/get/@Nego90?theme=asoul" alt="Moe Counter">
 </div>
