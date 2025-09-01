@@ -8,7 +8,7 @@
 
 <div align="center">
   <h1>Olá, eu sou Luan Lima! 👋</h1>
-  <p>Um desenvolvedor apaixonado por criar soluções e aprender novas tecnologias.</p>
+  <p>Um desenvolvedor apaixonado por criar soluções e aprender novas tecnologias. </p>
   </div>
 
 <br>
